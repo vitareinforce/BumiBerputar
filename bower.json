@@ -1,0 +1,24 @@
+{
+  "name": "BumiBerputar",
+  "description": "Tugas Besar Grafika Komputer dan Pemrograman GPU EL5003",
+  "main": "desktop.js",
+  "authors": [
+    "Vitradisa Pratama 23215331"
+  ],
+  "license": "CC0-1.0",
+  "moduleType": [],
+  "homepage": "https://github.com/vitareinforce/BumiBerputar",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "^2.1.8",
+    "three.js": "threejs#*",
+	  "webcomponentsjs": "^0.7.22"
+  }
+}
